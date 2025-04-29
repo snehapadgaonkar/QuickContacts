@@ -13,13 +13,13 @@ Built with **Typescript and vite**, it stores data securely in the browser’s *
 - 🔒 No login or signup required
 - 🌐 Works offline — no internet needed after first load
 - ⚡ Blazing fast and lightweight
-- 🆓 Deployable on platforms like GitHub Pages, AWS S3, Netlify, and more
+- 🆓 Deployed on platform: AWS Amplify
 
 ---
 
-## 📸 Screenshots
+## Accessible via laptop and mobile phone
 
-> (Insert screenshots or GIFs here showing the interface — optional)
+![layout](layout.png)
 
 ---
 
